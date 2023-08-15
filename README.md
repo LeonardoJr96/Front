@@ -11,8 +11,8 @@ Meu nome é Leonardo, curso Sistemas de Informação no Instituto Federal, dura�
 [![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook)](https://www.facebook.com/SEUUSERNAME/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/SEUUSERNAME/)
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/SEUUSERNAME)
-## Habilidades
 
+## Habilidades
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
 ## GitHub Stats
