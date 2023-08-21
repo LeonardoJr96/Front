@@ -14,6 +14,9 @@ Meu nome é Leonardo, curso Sistemas de Informação no Instituto Federal, dura�
 
 ## Habilidades
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 
 ## GitHub Stats
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoJr96&show_icons=true&theme=dark&border_color=000&icon_color=55$text_color=55)
