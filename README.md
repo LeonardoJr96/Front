@@ -12,13 +12,24 @@ Meu nome é Leonardo, curso Sistemas de Informação no Instituto Federal, dura�
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/SEUUSERNAME/)
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/SEUUSERNAME)
 
+
+
+
 ## Habilidades
+
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-	@@ -22,7 +19,3 @@ Meu nome é Leonardo, curso Sistemas de Informação no Instituto Federal, dura
+
+![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+
+![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+
+
+
+
+## GitHub Stats
+
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoJr96&show_icons=true&theme=dark&border_color=000&icon_color=55$text_color=55)
-<a href="https://github.com/LeonardoJr96">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoJr96&layout=compact&langs_count=7&theme=dark&border_color=000"/>
 
-
-## Minhas Contribuições
-[![GitHub Streak](https://streak-stats.demolab.com?user=LeonardoJr96&theme=dark)](https://git.io/streak-stats)
+	
