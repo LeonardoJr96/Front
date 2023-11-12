@@ -31,6 +31,6 @@ Meu nome é Leonardo, curso Sistemas de Informação no Instituto Federal, dura�
 ## Minhas Contribuições
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LeonardoJr96&theme=dark&hide_border=true&locale=pt_BR&border_color=000)](https://git.io/streak-stats)
-![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoJr96&show_icons=true&theme=dark&border_color=000&icon_color=55$text_color=55)
+
 
 	
