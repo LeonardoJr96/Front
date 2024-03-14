@@ -4,7 +4,10 @@
 <img align="center"  height="250" width="250" alt="bat" src="https://media.giphy.com/media/4HvglAWtvzQGaEyLj9/giphy.gif">
 	
 </div>
-Meu nome é Leonardo, curso Sistemas de Informação no Instituto Federal, duração de 4 anos. Gosto da área de tecnologia, busco sempre melhorar aprender mais, atualmente realizo bootcamp na DIO, Front-end com Java + Angular. Além do bootcamp participo de dois projetos da faculdade, um relacionado a impressora 3D e outra de Machine learning com banco de dados em python. Espero que gostem do meu perfil, estou aprendendo a mexer com o gitHub e aos poucos vou adicionando projetos e melhorando o visual. Peço que me sigam no LinkedIn e que se sintam a vontade de me chamar.
+Meu nome é Leonardo, curso Sistemas de Informação no Instituto Federal, duração de 4 anos. Gosto da área de tecnologia, busco sempre melhorar aprender mais. Recentemente, participei de um bootcamp na DIO, focado em Front-end com Java + Angular e estive envolvido em dois projetos em minha graduação. Um deles está relacionado à impressora 3D e o outro envolve Machine Learning com banco de dados em Python, embora atualmente ambos estejam interrompidos.
+
+
+Estou ansioso para entrar em novos projetos e bootecamps assim que possível. Além disso, estou me familiarizando com o GitHub e pretendo adicionar mais projetos à minha conta. Espero que gostem do meu perfil, estou aprendendo a mexer com o gitHub e aos poucos vou adicionando projetos e melhorando o visual. Peço que me sigam no [LinkedIn](https://www.linkedin.com/in/leonardo-de-almeida-junior-847a241a0/) e que se sintam a vontade de me chamar.
 
 ## Conecte-se comigo
 
