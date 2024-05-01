@@ -4,19 +4,15 @@
 <img align="center"  height="250" width="250" alt="bat" src="https://media.giphy.com/media/4HvglAWtvzQGaEyLj9/giphy.gif">
 	
 </div>
-Meu nome é Leonardo, curso Sistemas de Informação no Instituto Federal, duração de 4 anos. Gosto da área de tecnologia, busco sempre melhorar aprender mais. Recentemente, participei de um bootcamp na DIO, focado em Front-end com Java + Angular e estive envolvido em dois projetos em minha graduação. Um deles está relacionado à impressora 3D e o outro envolve Machine Learning com banco de dados em Python, embora atualmente ambos estejam interrompidos.
+Meu nome é Leonardo, curso Sistemas de Informação no Instituto Federal, duração de 4 anos. Gosto da área de tecnologia, busco sempre melhorar aprender mais.
 
 &nbsp;
 
-Estou ansioso para entrar em novos projetos e bootecamps assim que possível. Além disso, estou me familiarizando com o GitHub e pretendo adicionar mais projetos à minha conta. Espero que gostem do meu perfil, estou aprendendo a mexer com o gitHub e aos poucos vou adicionando projetos e melhorando o visual. Peço que me sigam no [LinkedIn](https://www.linkedin.com/in/leonardo-de-almeida-junior-847a241a0/) e que se sintam a vontade de me chamar.
+Estou ansioso para entrar em novos projetos e bootecamps assim que possível. Além disso, estou me familiarizando com o GitHub e pretendo adicionar mais projetos à minha conta. Peço que me sigam no [LinkedIn](https://www.linkedin.com/in/leonardo-de-almeida-junior-847a241a0/) e que se sintam a vontade de me chamar.
 
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/leonardo-de-almeida-junior-847a241a0/)
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/SEUUSERNAME/)
-[![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook)](https://www.facebook.com/SEUUSERNAME/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/SEUUSERNAME/)
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/SEUUSERNAME)
 
 ## Habilidades
 
