@@ -1,7 +1,6 @@
 # LeonardoJr96
 
 <div align="center">
-<img align="center"  height="250" width="250" alt="bat" src="https://media.giphy.com/media/4HvglAWtvzQGaEyLj9/giphy.gif">
 	
 </div>
 Meu nome é Leonardo, curso Sistemas de Informação no Instituto Federal, duração de 4 anos. Gosto da área de tecnologia, busco sempre melhorar aprender mais.
